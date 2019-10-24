@@ -1,0 +1,18 @@
+{
+  "name": "spl",
+  "version": "1.0.0",
+  "description": "esse é um projeto que pega letras na internet e faz um slide show para apresentar na igreja",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Joerverson Santos",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "crawler": "^1.1.2",
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4",
+    "vue": "^2.5.13"
+  }
+}

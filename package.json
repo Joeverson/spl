@@ -9,7 +9,7 @@
   "author": "Joerverson Santos",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "crawler": "^1.1.2",
     "express": "^4.16.2",
     "socket.io": "^2.0.4",
